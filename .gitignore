@@ -1,0 +1,11 @@
+weights/*
+!weights/.gitkeep 
+pretrained_weights/*
+!pretrained_weights/.gitkeep 
+datasets/**
+!datasets/**/ 
+*.png
+*.pyc
+results/**
+!results/**/
+!.gitkeep
